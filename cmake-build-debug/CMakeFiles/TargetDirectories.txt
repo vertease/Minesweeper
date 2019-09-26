@@ -1,0 +1,3 @@
+/Users/Daniela/prog/cpp/Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Daniela/prog/cpp/Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Daniela/prog/cpp/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper.dir
